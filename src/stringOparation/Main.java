@@ -4,7 +4,8 @@ public class Main {
 	public static void main(String[] args) {
 //		lesson1.test();
 //		lesson2.test();
-		lesson3.test();
-		
+//		lesson3.test();
+//		lesson4.test();
+		Practice.test();
 	}
 }
